@@ -12,6 +12,7 @@ namespace GitTestApp
         {
             Console.WriteLine("Hello World 3");
             Console.WriteLine("Hello World 4");
+            Console.WriteLine("Hello Tim");
             Console.ReadLine();
         }
     }
